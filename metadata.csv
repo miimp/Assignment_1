@@ -1,0 +1,21 @@
+Original_filename;Id ;Licence;Title;Author;Year;Source
+01_Pride_and_Prejudice.txt;bk_01;Public Domain;Pride and Prejudice;Jane Austen;1813;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Pride and Prejudice.txt?ref_type=heads
+02_Oliver_Twist.txt;bk_02;Public Domain;Oliver Twist;Charles Dickens;1838;https://github.com/laumann/ds/blob/master/hashing/books/charles-dickens-oliver-twist.txt
+03_Ulysses.txt;bk_03;Public Domain;Ulysses;James Joyce;1922;https://github.com/laumann/ds/blob/master/hashing/books/james-joyce-ulysses.txt
+04_Divina_Commedia.txt;bk_04;Public Domain;La Divina Commedia;Dante Alighieri;1312;https://github.com/laumann/ds/blob/master/hashing/books/dante-divina-commedia.txt
+05_Dracula.txt;bk_05;Public Domain;Dracula;Bram Stoker;1897;https://github.com/benbrandt/cs50/blob/master/pset5/texts/dracula.txt
+06_Alice's_Adventures_in_Wonderland.txt;bk_06;Public Domain;Alice’s Adventures in Wonderland;Lewis Carol;1865;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Carroll, Lewis/Alice's Adventures in Wonderland.txt?ref_type=heads
+07_Frankenstein.txt;bk_07;Public Domain;Frankenstein;Mary Shelley;1818;https://github.com/benbrandt/cs50/blob/master/pset5/texts/frankenstein.txt
+08_A_Christmas_Carol.txt;bk_08;Public Domain;A Christmas Carol;Charles Dickens;1843;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Dickens, Charles/A Christmas Carol.txt?ref_type=heads
+09_Great_Expectations.txt;bk_09;Public Domain;Great Expectations;Charles Dickens;1861;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Dickens, Charles/Great Expectations.txt?ref_type=heads
+10_The_Iliad_of_Homer.txt;bk_10;Public Domain;The Iliad;Homer;?;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Homer/The Iliad of Homer.txt?ref_type=heads
+11_Emma.txt;bk_11;Public Domain;Emma;Jane Austen;1815;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Emma.txt?ref_type=heads
+12_Lady_Susan.txt;bk_12;Public Domain;Lady Susan;Jane Austen;1871;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Lady Susan.txt?ref_type=heads
+13_Mansfield_Park.txt;bk_13;Public Domain;Mansfield Park;Jane Austen;1814;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Mansfield Park.txt?ref_type=heads
+14_Northanger_Abbey.txt;bk_14;Public Domain;Northanger Abbey;Jane Austen;1817;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Northanger Abbey.txt?ref_type=heads
+15_Persuasion.txt;bk_15;Public Domain;Persuasion;Jane Austen;1817;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Persuasion.txt?ref_type=heads
+16_Sense_and_Sensibility.txt;bk_16;Public Domain;Sense and Sensibility;Jane Austen;1811;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Austen, Jane/Sense and Sensibility.txt?ref_type=heads
+17_The_Island_of_Doctor_Moreau.txt;bk_17;Public Domain;The Island of Doctor Moreau;H.G. Wells;1896;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Wells, H. G. (Herbert George)/The Island of Doctor Moreau.txt?ref_type=heads
+18_The_Time_Machine.txt;bk_18;Public Domain;The Time Machine;H.G. Wells ;1895;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Wells, H. G. (Herbert George)/The Time Machine.txt?ref_type=heads
+19_The_Fall_of_the_House_of_Usher.txt;bk_19;Public Domain;The Fall of the House of Usher;Edgar Allan Poe;1839;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Poe, Edgar Allan/The Fall of the House of Usher.txt?ref_type=heads
+20_The_Masque_of_the_Red_Death.txt;bk_20;Public Domain;The Masque of the Red Death;Edgar Allan Poe;1842;https://gitlab.galileo.usg.edu/ugalibs/digiuga/Gutenberg_Text/-/blob/master/Poe, Edgar Allan/The Masque of the Red Death.txt?ref_type=heads
